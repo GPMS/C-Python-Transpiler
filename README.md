@@ -17,9 +17,9 @@ $ make
 ```shell
 $ ./cmp <c-file>
 ```
-If there are no errors, the program will output a python file, a .dot graph file and a txt file with all symbols.
+If there are no errors, the program will output a python file, a .dot graph file and a txt file with all symbols to the 'output' folder.
 
 ## Running Tests
 ```shell
-$ .\tests
+$ ./tests
 ```
